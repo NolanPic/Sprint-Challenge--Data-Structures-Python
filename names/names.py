@@ -26,7 +26,7 @@ duplicates = []  # Return the list of duplicates in this data structure
 
 # Replace the nested for loops below with your improvements
 
-# **** RUNTIME COMPLEXITY ****
+# **** OLD RUNTIME COMPLEXITY ****
 # This block of code could be said to be O(n*m) where n represents 
 # the names in names_1, and m represents the names in names_2.
 # Since both of the files have the same amount of names, you could
